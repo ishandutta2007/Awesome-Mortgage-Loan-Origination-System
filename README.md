@@ -49,7 +49,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 > **Open-Source Status Note**: Production-ready, fully compliant mortgage LOS platforms are almost non-existent in open source due to strict U.S. residential lending regulations (TRID, HMDA, RESPA). However, the repositories below serve as valuable building blocks, core engines, decisioning systems, and reference architectures.
 
-The repositories below are sorted by GitHub Stars_Count (Descending) ⭐:
+The repositories below are sorted by GitHub_Stars_Count (Descending) ⭐:
 
 | Project | Description | Stars |
 | :--- | :--- | :--- |
