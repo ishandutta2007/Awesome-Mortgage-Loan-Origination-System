@@ -51,7 +51,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 The repositories below are sorted by GitHub_Stars_Count (Descending) ⭐:
 
-| Project | Description | Stars |
+| Project | Description | Github_Stars |
 | :--- | :--- | :--- |
 | **[Flowable Engine](https://github.com/flowable/flowable-engine)** | Light-weight business process (BPMN) & workflow engine widely used as the core state-machine for custom loan origination pipelines. | [<img src="https://img.shields.io/github/stars/flowable/flowable-engine?style=social&color=white" alt="Flowable Stars"/>](https://github.com/flowable/flowable-engine/stargazers) |
 | **[Camunda Platform](https://github.com/camunda/camunda)** | Enterprise process orchestration engine designed to automate complex, multi-step financial approval and loan origination workflows. | [<img src="https://img.shields.io/github/stars/camunda/camunda?style=social&color=white" alt="Camunda Stars"/>](https://github.com/camunda/camunda/stargazers) |
